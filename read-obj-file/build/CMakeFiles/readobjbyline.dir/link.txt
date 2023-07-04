@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/readobjbyline.dir/main.cpp.o  -o readobjbyline 

@@ -1,0 +1,3 @@
+/home/wsx/dir/read-obj-file/build/CMakeFiles/rebuild_cache.dir
+/home/wsx/dir/read-obj-file/build/CMakeFiles/edit_cache.dir
+/home/wsx/dir/read-obj-file/build/CMakeFiles/readobjbyline.dir
