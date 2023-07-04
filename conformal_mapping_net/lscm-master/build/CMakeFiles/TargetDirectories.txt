@@ -1,3 +1,0 @@
-/home/wsx/pointcloud_research/conformal_mapping/lscm-master/build/CMakeFiles/rebuild_cache.dir
-/home/wsx/pointcloud_research/conformal_mapping/lscm-master/build/CMakeFiles/edit_cache.dir
-/home/wsx/pointcloud_research/conformal_mapping/lscm-master/build/CMakeFiles/main.dir
