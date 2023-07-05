@@ -1,0 +1,3 @@
+/home/wsx/cm_dir/test_cfun/build/CMakeFiles/cfun.dir
+/home/wsx/cm_dir/test_cfun/build/CMakeFiles/edit_cache.dir
+/home/wsx/cm_dir/test_cfun/build/CMakeFiles/rebuild_cache.dir
